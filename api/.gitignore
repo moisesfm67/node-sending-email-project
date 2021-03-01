@@ -2,3 +2,4 @@ node_modules
 /src/database/database.sqlite
 yarn-error.log
 yarn.lock
+anotações.txt
