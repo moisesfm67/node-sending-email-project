@@ -1,5 +1,8 @@
 node_modules
 /src/database/database.sqlite
+/src/database/database.test.sqlite
 yarn-error.log
 yarn.lock
 anotações.txt
+jest.config.ts
+.vscode
