@@ -13,7 +13,7 @@ class Survey {
   description: string;
 
   @CreateDateColumn()
-  created_at: Date;
+  readonly created_at: Date;
 
   constructor() {
     if (!this.id) {
