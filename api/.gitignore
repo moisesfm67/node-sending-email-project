@@ -6,3 +6,4 @@ yarn.lock
 anotações.txt
 jest.config.ts
 .vscode
+package-lock.json
